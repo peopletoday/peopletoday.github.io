@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Post-rsses on People Today</title>
-    <link>http://www.peopletoday.co.kr/post/index.xml</link>
+    <link>https://peopletoday.github.io/post/index.xml</link>
     <description>Recent content in Post-rsses on People Today</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-KR</language>
     <lastBuildDate>Mon, 16 Jan 2017 18:30:44 +0900</lastBuildDate>
-    <atom:link href="http://www.peopletoday.co.kr/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://peopletoday.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Testing News</title>
-      <link>http://www.peopletoday.co.kr/post/0/</link>
+      <link>https://peopletoday.github.io/post/0/</link>
       <pubDate>Mon, 16 Jan 2017 18:30:44 +0900</pubDate>
       
-      <guid>http://www.peopletoday.co.kr/post/0/</guid>
+      <guid>https://peopletoday.github.io/post/0/</guid>
       <description>&lt;p&gt;This is testing for deployment&lt;/p&gt;
 </description>
     </item>

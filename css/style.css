@@ -731,6 +731,7 @@ select {
 
 .loop__excerpt {
 	overflow: hidden;
+	text-align: justify;
 }
 
 .loop__thumbnail {
@@ -1173,7 +1174,7 @@ textarea {
 	margin: 0 4px 8px 0;
 	white-space: nowrap;
 	text-transform: uppercase;
-	background: #999;
+	background: #e7d8c1;
 }
 
 .mr-footer-widget .widget__link--taglist {

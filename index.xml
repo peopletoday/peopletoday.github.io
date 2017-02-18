@@ -2,19 +2,169 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>People Today</title>
-    <link>https://peopletoday.github.io/index.xml</link>
+    <link>/index.xml</link>
     <description>Recent content on People Today</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-KR</language>
-    <lastBuildDate>Mon, 16 Jan 2017 18:30:44 +0900</lastBuildDate>
-    <atom:link href="https://peopletoday.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Feb 2017 19:22:33 +0900</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Lorem ipsum dolor sit amet</title>
+      <link>/post/11/</link>
+      <pubDate>Sat, 18 Feb 2017 19:22:33 +0900</pubDate>
+      
+      <guid>/post/11/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lorem ipsum dolor sit amet</title>
+      <link>/post/10/</link>
+      <pubDate>Sat, 18 Feb 2017 19:22:31 +0900</pubDate>
+      
+      <guid>/post/10/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lorem ipsum dolor sit amet</title>
+      <link>/post/9/</link>
+      <pubDate>Sat, 18 Feb 2017 19:22:28 +0900</pubDate>
+      
+      <guid>/post/9/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lorem ipsum dolor sit amet</title>
+      <link>/post/8/</link>
+      <pubDate>Sat, 18 Feb 2017 19:22:23 +0900</pubDate>
+      
+      <guid>/post/8/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lorem ipsum dolor sit amet</title>
+      <link>/post/7/</link>
+      <pubDate>Sat, 18 Feb 2017 19:22:18 +0900</pubDate>
+      
+      <guid>/post/7/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lorem ipsum dolor sit amet</title>
+      <link>/post/6/</link>
+      <pubDate>Sat, 18 Feb 2017 19:22:14 +0900</pubDate>
+      
+      <guid>/post/6/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lorem ipsum dolor sit amet</title>
+      <link>/post/5/</link>
+      <pubDate>Sat, 18 Feb 2017 19:22:11 +0900</pubDate>
+      
+      <guid>/post/5/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lorem ipsum dolor sit amet</title>
+      <link>/post/4/</link>
+      <pubDate>Sat, 18 Feb 2017 19:22:06 +0900</pubDate>
+      
+      <guid>/post/4/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lorem ipsum dolor sit amet</title>
+      <link>/post/3/</link>
+      <pubDate>Sat, 18 Feb 2017 19:07:24 +0900</pubDate>
+      
+      <guid>/post/3/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lorem ipsum dolor sit amet</title>
+      <link>/post/2/</link>
+      <pubDate>Sat, 18 Feb 2017 19:07:18 +0900</pubDate>
+      
+      <guid>/post/2/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Testing News</title>
-      <link>https://peopletoday.github.io/post/0/</link>
+      <link>/post/0/</link>
       <pubDate>Mon, 16 Jan 2017 18:30:44 +0900</pubDate>
       
-      <guid>https://peopletoday.github.io/post/0/</guid>
+      <guid>/post/0/</guid>
       <description>&lt;p&gt;This is testing for deployment.&lt;/p&gt;
 </description>
     </item>

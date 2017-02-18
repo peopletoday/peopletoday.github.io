@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>People Today</title>
+    <link>/tags/news/index.xml</link>
+    <description>Recent content on People Today</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <atom:link href="/tags/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Lorem ipsum dolor sit amet</title>
+      <link>/post/11/</link>
+      <pubDate>Sat, 18 Feb 2017 19:22:33 +0900</pubDate>
+      
+      <guid>/post/11/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

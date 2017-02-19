@@ -18,6 +18,10 @@
 	- aqua: 00 8E 97
 	- orange:  F5 82 20
 	- blue ragoon: 00 57 78
+
+	eagles:
+	- midnight green: #00 4C 54
+	- gull gray: #A5 AC AF
 */	
 
 /*** CSS Reset based on http://meyerweb.com/eric/tools/css/reset/ v2.0 ***/
@@ -35,6 +39,10 @@ time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;
 }
+
+
+
+@import url(http://fonts.googleapis.com/earlyaccess/notosanskr.css);
 
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav,
 section {
@@ -83,9 +91,9 @@ html {
 }
 
 body {
-	font-family: "Open Sans", Helvetica, Arial, sans-serif;
+	font-family: "Noto Sans KR", "Open Sans", Helvetica, Arial, sans-serif;
 	font-size: 14px;
-	font-size: 0.875rem;
+	font-size: 1.2rem;	/** 0.875rem **/
 	line-height: 1.6;
 	background: #f7f7f7;
 	word-wrap: break-word;
@@ -313,7 +321,7 @@ blockquote {
 	font-size: 0.9375rem;
 	line-height: 1.6;
 	font-style: italic;
-	color: #666;
+	color: #777;
 	padding: 5px 0 5px 15px;
 /*	border-left: 5px solid #b3995d;*/
 	border-left: 5px solid #b3995d;
@@ -352,7 +360,7 @@ address {
 }
 
 a {
-	color: #000;
+	color: #345;
 	text-decoration: none;
 }
 
